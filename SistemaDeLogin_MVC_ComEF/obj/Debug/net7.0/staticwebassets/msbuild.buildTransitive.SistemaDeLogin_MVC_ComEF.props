@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SistemaDeLogin_MVC_ComEF.props" />
+</Project>
