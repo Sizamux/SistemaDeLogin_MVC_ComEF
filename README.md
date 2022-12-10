@@ -3,10 +3,10 @@ Login Mvc_w_RazorPages com Scaffold Identity
 
 - Login->RazorPages:
 <br/>[login.cshtml](/SistemaDeLogin_MVC_ComEF/Areas/Identity/Pages/Account/Login.cshtml)
-<br/>[login.cs](/SistemaDeLogin_MVC_ComEF/Areas/Identity/Pages/Account/Login.cs)
+<br/>[login.cs](/SistemaDeLogin_MVC_ComEF/Areas/Identity/Pages/Account/Login.cshtml.cs)
 - Registrar->RazorPages:
 <br/>[register.cshtml](/SistemaDeLogin_MVC_ComEF/Areas/Identity/Pages/Account/Register.cshtml)
-<br/>[register.cs](/SistemaDeLogin_MVC_ComEF/Areas/Identity/Pages/Account/Register.cs)
+<br/>[register.cs](/SistemaDeLogin_MVC_ComEF/Areas/Identity/Pages/Account/Register.cshtml.cs)
 
 - Codigos utilizados: C#, Html, cshtml.
 
